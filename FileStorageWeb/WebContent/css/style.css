@@ -1,0 +1,49 @@
+#header {
+	height: 90px;
+	width: 100%;
+	background-color: #0033CC;
+}
+
+#hColor {
+	float: top;
+	position: absolute;
+	top: 3.9px;
+	left: 550px;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	color: white;
+	font-size: 30px;
+}
+
+#rLink {
+	float: top;
+	position: absolute;
+	top: 45px;
+	left: 15px;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+
+#lLink {
+	float: top;
+	position: absolute;
+	top: 45px;
+	right: 45px;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+#loLink {
+	float: top;
+	position: absolute;
+	top: 45px;
+	right: 45px;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+
+#rLink a {
+	color: white;
+}
+
+#lLink a {
+	color: white;
+}
+#loLink a {
+	color: white;
+}
